@@ -1,0 +1,33 @@
+##
+## Manjaro Linux custom mirrorlist
+## Generated on 2022-08-19 04:07
+##
+## Please use 'pacman-mirrors -id' To reset custom mirrorlist
+## Please use 'pacman-mirrors -c all' To reset custom mirrorlist
+## To remove custom config run  'pacman-mirrors -c all'
+##
+
+## Country : United_States
+Server = http://mirror.fcix.net/manjaro/stable/$repo/$arch
+
+## Country : United_States
+Server = https://ridgewireless.mm.fcix.net/manjaro/stable/$repo/$arch
+
+## Country : United_States
+Server = https://mirrors.ocf.berkeley.edu/manjaro/stable/$repo/$arch
+
+## Country : United_States
+Server = https://mnvoip.mm.fcix.net/manjaro/stable/$repo/$arch
+
+## Country : United_States
+Server = https://coresite.mm.fcix.net/manjaro/stable/$repo/$arch
+
+## Country : United_States
+Server = https://forksystems.mm.fcix.net/manjaro/stable/$repo/$arch
+
+## Country : United_States
+Server = https://repo.ialab.dsu.edu/manjaro/stable/$repo/$arch
+
+## Country : United_States
+Server = https://mirror.math.princeton.edu/pub/manjaro/stable/$repo/$arch
+

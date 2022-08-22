@@ -1,0 +1,19 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/CLionProjects/Testing" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/dwm" value="true" />
+        <entry key="$USER_HOME$/Repo/suckless/dwm-bar" value="true" />
+        <entry key="$USER_HOME$/Repo/suckless/read-dwm" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/CLionProjects" />
+      </list>
+    </option>
+  </component>
+</application>

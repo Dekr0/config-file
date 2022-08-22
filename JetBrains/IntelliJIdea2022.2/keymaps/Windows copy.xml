@@ -1,0 +1,9 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="EditorDecreaseFontSize">
+    <mouse-shortcut keystroke="shift control button142" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="shift control button143" />
+  </action>
+  <action id="TerminalDecreaseFontSize" />
+</keymap>

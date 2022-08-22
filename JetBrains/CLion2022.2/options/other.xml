@@ -1,0 +1,73 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2DL4alsAuyl4cLJ5l1mhqAYZnMQ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2DWe363H9iHRBGke8g3PV0AXtk4">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2DWe67FsshJR3KneUstZIMl7RpP">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2DWeoa7GzxLbpvN38wUhPp4r0a6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "FindSplitterProportion": "0.3299725",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "CL-222.3345.126-20d4f67d1fa82db4d132a5e5cb2697e04d12ace1c4949096a2fcd056d7736b87",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "CL-222.3345.126",
+    "clion.initialConfigPerformed": "true",
+    "evlsprt3.222": "24",
+    "file.gist.reindex.count": "9",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "CL-222.3345.126",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/dekr0/CLionProjects/dwm",
+    "previousColorScheme": "_@user_Darcula",
+    "qualified.names.node.provider.file.structure.state": "true",
+    "registry.to.advanced.settings.migration.build": "CL-222.3345.126",
+    "structure.view.defaults.are.configured": "true",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.7.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/dekr0/CLionProjects/dwm",
+      "/home/dekr0/Repo/suckless/read-dwm",
+      "/home/dekr0/Repo/suckless/dwm-bar",
+      "/mnt/win/Github/windows-config/CLion-settings.zip"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

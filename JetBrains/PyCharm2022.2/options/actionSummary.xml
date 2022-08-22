@@ -1,0 +1,22 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="13" l="1660465173642" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1660465182687" />
+    </e>
+    <e n="WelcomeScreen.ManageLicense">
+      <i c="1" l="1660112188606" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1660465149564" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="1" l="1660112186946" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1660465194704" />
+    </e>
+  </component>
+</application>

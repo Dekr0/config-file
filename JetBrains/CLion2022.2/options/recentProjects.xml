@@ -1,0 +1,23 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/CLionProjects/dwm">
+          <value>
+            <RecentProjectMetaInfo frameTitle="dwm – dwm.c" opened="true" projectWorkspaceId="2DWeoa7GzxLbpvN38wUhPp4r0a6">
+              <option name="activationTimestamp" value="1660856031650" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-222.3345.126" />
+              <option name="buildTimestamp" value="1658866061087" />
+              <frame x="1930" y="28" width="1898" height="1040" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1660819443888" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/CLionProjects/dwm" />
+    <option name="lastProjectLocation" value="$USER_HOME$/CLionProjects" />
+  </component>
+</application>

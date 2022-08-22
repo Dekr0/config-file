@@ -1,0 +1,88 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Back">
+      <i c="44" l="1660856024785" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="19" l="1660855808940" />
+    </e>
+    <e n="EditorUp">
+      <i c="35" l="1660853868880" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="1" l="1660855344339" />
+    </e>
+    <e n="Find">
+      <i c="1" l="1660853870613" />
+    </e>
+    <e n="FindUsages">
+      <i c="2" l="1660855906668" />
+    </e>
+    <e n="Forward">
+      <i c="5" l="1660855292984" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="64" l="1660855996336" />
+    </e>
+    <e n="OpenFile">
+      <i c="2" l="1660819073812" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="2" l="1660855038353" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1660465114352" />
+    </e>
+    <e n="SplitVertically">
+      <i c="1" l="1660819658178" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="2" l="1660853652594" />
+    </e>
+    <e n="WelcomeScreen.Configure.Import">
+      <i c="1" l="1660112698459" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1660819434200" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="3" l="1660819432091" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="3" l="1660819643971" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="20" l="1660855825668" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
+      <i c="12" l="1660855812651" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.ToggleMatchCase">
+      <i c="1" l="1660854149105" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.ToggleWholeWordsOnlyAction">
+      <i c="1" l="1660854150600" />
+    </e>
+    <e n="com.intellij.ide.structureView.newStructureView.TreeActionWrapper">
+      <i c="1" l="1660853565022" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="2" l="1660819217804" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="22" l="1660856011369" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1660465083622" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="1" l="1660112686278" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="15" l="1660855908944" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="2" l="1660853653693" />
+    </e>
+  </component>
+</application>

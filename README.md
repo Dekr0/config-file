@@ -40,8 +40,8 @@
 [Security]
 EAP-Method=PEAP
 EAP-PEAP-Phase2-Method-MSCHAPV2
-EAP-PEAP-Phase2-Identity=chengxua
-EAP-PEAP-Phase2-Password=XI!ZT!764351be?ar?
+EAP-PEAP-Phase2-Identity=***
+EAP-PEAP-Phase2-Password=***
 
 [Settings]
 AutoConnect=true

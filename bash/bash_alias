@@ -2,6 +2,7 @@ mount-drive() {
     sudo mount -t ntfs-3g "$1" /mnt/win
 }
 
+alias startx="startx > x.log"
 alias pip="pip3"
 
 alias list-drive="lsblk -f"

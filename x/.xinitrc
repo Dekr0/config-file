@@ -1,5 +1,10 @@
 #!/bin/bash
- 
+
+if [ -f x.log]; then
+	rm x.log
+fi
+
+
 # Note that all .sh scripts and commands should write before "exec dwm". Also, remember to put "&" at the end of each commands / .sh scripts
 
 /home/dekr0/Repo/suckless/dwm-bar/dwm_bar.sh &

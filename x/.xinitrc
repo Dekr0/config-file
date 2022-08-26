@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ -f x.log]; then
+if [ -f x.log ]; then
 	rm x.log
 fi
 

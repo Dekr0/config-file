@@ -2,7 +2,7 @@
 # ~/.bashrc
 #
 
-source "${HOME}/.config/bash_alias"
+source "${HOME}/.config/alias"
 
 eval "$(oh-my-posh init bash --config ~/.poshthemes/material.omp.json)"
 

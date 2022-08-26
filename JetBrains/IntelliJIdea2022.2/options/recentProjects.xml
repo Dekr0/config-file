@@ -1,0 +1,23 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/kotlin-koans">
+          <value>
+            <RecentProjectMetaInfo frameTitle="kotlin-koans" opened="true" projectWorkspaceId="2Dn70TxwtFqtHWKk6XjZdeTKOye">
+              <option name="activationTimestamp" value="1661322818022" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-222.3345.118" />
+              <option name="buildTimestamp" value="1658811679220" />
+              <frame x="1930" y="28" width="1242" height="1040" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1661322773402" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/IdeaProjects/kotlin-koans" />
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>

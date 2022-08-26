@@ -1,0 +1,82 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1661321745174" />
+    </e>
+    <e n="$Undo">
+      <i c="8" l="1661321743616" />
+    </e>
+    <e n="ChooseRunConfiguration">
+      <i c="1" l="1661322499628" />
+    </e>
+    <e n="CloseProject">
+      <i c="3" l="1661322684600" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="8" l="1661322312679" />
+    </e>
+    <e n="CompileDirty">
+      <i c="1" l="1661322471096" />
+    </e>
+    <e n="ConfigureIcs">
+      <i c="1" l="1661321878665" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="483" l="1661322755449" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="4" l="1661322145749" />
+    </e>
+    <e n="EditorDown">
+      <i c="59" l="1661322321509" />
+    </e>
+    <e n="EditorEnter">
+      <i c="10" l="1661322297470" />
+    </e>
+    <e n="EditorLeft">
+      <i c="6" l="1661322460505" />
+    </e>
+    <e n="EditorRight">
+      <i c="33" l="1661322318554" />
+    </e>
+    <e n="EditorUp">
+      <i c="17" l="1661322297855" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1661322618168" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1661321883391" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="6" l="1661322744471" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="2" l="1661321719759" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$RunCurrentFileAction">
+      <i c="1" l="1661322550022" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="3" l="1661320298337" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="3" l="1661322580607" />
+    </e>
+    <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+      <i c="2" l="1661322624834" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="3" l="1661322585674" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="1" l="1661322584694" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.impl.SegmentedButtonAction">
+      <i c="1" l="1661322694243" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="3" l="1661322583214" />
+    </e>
+  </component>
+</application>

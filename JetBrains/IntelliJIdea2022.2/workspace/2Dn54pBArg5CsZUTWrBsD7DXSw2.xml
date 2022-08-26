@@ -1,0 +1,152 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="kotlin-koans" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Main.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Kotlin">
+      <summary usageCount="2" lastUsed="1661321923398" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="kotlin">
+      <summary usageCount="2" lastUsage="1661321923399" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kotlin-koans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin-koans" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin-koans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin-koans" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin-koans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin-koans" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Unnamed" executorId="Run" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="859000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.33028847" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Endpoints" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dependencies" order="10" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" />
+      <window_info anchor="right" id="Notifications" order="1" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2353" y="209" width="1053" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1661322616672">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2353" y="209" width="1053" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1661322616672" />
+    <state x="2617" y="366" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1661322565695">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2617" y="366" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1661322565695" />
+    <state width="1852" height="315" key="GridCell.Tab.0.bottom" timestamp="1661322684604">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1852" height="315" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1661322684604" />
+    <state width="1852" height="315" key="GridCell.Tab.0.center" timestamp="1661322684604">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1852" height="315" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1661322684604" />
+    <state width="1852" height="315" key="GridCell.Tab.0.left" timestamp="1661322684604">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1852" height="315" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1661322684604" />
+    <state width="1852" height="315" key="GridCell.Tab.0.right" timestamp="1661322684604">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1852" height="315" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1661322684604" />
+    <state x="2373" y="198" key="SettingsEditor" timestamp="1661321902553">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2373" y="198" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1661321902553" />
+    <state x="2479" y="244" key="TargetEnvironmentsConfigurable.size" timestamp="1661322626244">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2479" y="244" key="TargetEnvironmentsConfigurable.size/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1661322626244" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -13,7 +13,7 @@
       <i c="1" l="1660855344339" />
     </e>
     <e n="Find">
-      <i c="1" l="1660853870613" />
+      <i c="2" l="1661400774938" />
     </e>
     <e n="FindUsages">
       <i c="2" l="1660855906668" />
@@ -51,8 +51,11 @@
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="3" l="1660819643971" />
     </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="1" l="1661400778383" />
+    </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
-      <i c="20" l="1660855825668" />
+      <i c="21" l="1661400776993" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
       <i c="12" l="1660855812651" />
@@ -70,7 +73,7 @@
       <i c="2" l="1660819217804" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="22" l="1660856011369" />
+      <i c="23" l="1661400766237" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1660465083622" />

@@ -1,0 +1,1 @@
+runfile('/home/dekr0/PycharmProjects/phraseDat/src/phraser.py', wdir='/home/dekr0/PycharmProjects/phraseDat/src')

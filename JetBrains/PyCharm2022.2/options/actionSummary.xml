@@ -1,22 +1,115 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1661649619355" />
+    </e>
+    <e n="$Undo">
+      <i c="2" l="1661651178357" />
+    </e>
+    <e n="CloseProject">
+      <i c="2" l="1661649209107" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="2" l="1661651171627" />
+    </e>
+    <e n="Debug">
+      <i c="2" l="1661651256535" />
+    </e>
     <e n="EditorBackSpace">
-      <i c="13" l="1660465173642" />
+      <i c="983" l="1661654154032" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="16" l="1661653953934" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1661650628513" />
+    </e>
+    <e n="EditorDown">
+      <i c="10" l="1661653957825" />
+    </e>
+    <e n="EditorEnter">
+      <i c="28" l="1661654161924" />
+    </e>
+    <e n="EditorLeft">
+      <i c="45" l="1661654157640" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1661650630342" />
+    </e>
+    <e n="EditorRight">
+      <i c="88" l="1661654161139" />
+    </e>
+    <e n="EditorTab">
+      <i c="2" l="1661652433157" />
+    </e>
+    <e n="EditorUp">
+      <i c="8" l="1661653951589" />
+    </e>
+    <e n="MarkSourceRoot">
+      <i c="1" l="1661649380280" />
+    </e>
+    <e n="NewDir">
+      <i c="2" l="1661649394609" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1661649361628" />
+    </e>
+    <e n="PyMarkResourceRoot">
+      <i c="1" l="1661649408367" />
+    </e>
+    <e n="Run">
+      <i c="30" l="1661654165594" />
+    </e>
+    <e n="RunClass">
+      <i c="1" l="1661650119356" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1661652897559" />
     </e>
     <e n="ShowSettings">
       <i c="1" l="1660465182687" />
     </e>
+    <e n="Stop">
+      <i c="2" l="1661651690257" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="2" l="1661651255223" />
+    </e>
     <e n="WelcomeScreen.ManageLicense">
       <i c="1" l="1660112188606" />
     </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="1" l="1661649212310" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$RunCurrentFileAction">
+      <i c="1" l="1661649493736" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="3" l="1661654095668" />
+    </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
-      <i c="1" l="1660465149564" />
+      <i c="2" l="1661649214754" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
       <i c="1" l="1660112186946" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="1" l="1660465194704" />
+      <i c="13" l="1661654167708" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1661649479089" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="2" l="1661652138234" />
+    </e>
+    <e n="com.jetbrains.python.console.PydevConsoleRunnerImpl$6">
+      <i c="2" l="1661654066678" />
+    </e>
+    <e n="com.jetbrains.python.console.PydevConsoleRunnerImpl$RestartAction">
+      <i c="4" l="1661653179702" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="3" l="1661654058593" />
     </e>
   </component>
 </application>

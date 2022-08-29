@@ -13,7 +13,7 @@ xrandr --output DP-2 --mode 1920x1080 --output HDMI-0 --mode 1920x1080 --left-of
 
 picom &
 nitrogen --restore &
-wmname LG3D &
+wmname LG3D
 
 # Note that "exec dwm" should be place at the end of .xinitrc
 exec dwm

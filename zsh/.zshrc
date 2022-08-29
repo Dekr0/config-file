@@ -37,8 +37,8 @@ zstyle ':completion:*' cache-path ~/.zsh/cache
 export EDITOR=/usr/bin/nvim
 
 # Alias
-source "${HOME}/.config/alias"
+source "/home/dekr0/.config/alias"
 
 # Posh
-theme="my-half-life"
-eval "$(oh-my-posh init zsh --config ~/.poshthemes/${theme}.omp.json)"
+theme="my-blue-owl"
+eval "$(oh-my-posh init zsh --config /home/dekr0/.poshthemes/${theme}.omp.json)"

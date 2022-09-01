@@ -33,6 +33,7 @@
 
 ### `wpa_supplicant`
 
+- Disable `iwd` and `NetworkManager`
 - checkout [wpa_supplicant in ArchWiki](https://wiki.archlinux.org/title/wpa_supplicant)
 - Use with `dhcpcd`
 - An example of configuration for WPA2 / Enterprise

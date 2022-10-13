@@ -6,14 +6,14 @@
       "segments": [
         {
           "background": "transparent",
-          "foreground": "#ffffff",
+          "foreground": "#eee8d5",
           "style": "plain",
-          "template": "{{ if .WSL }}WSL at {{ end }}{{.Icon}}  ",
+          "template": " {{ if .WSL }}WSL at {{ end }}{{.Icon}}  ",
           "type": "os"
         },
         {
           "background": "#01579B",
-          "foreground": "#ffffff",
+          "foreground": "#eee8d5",
           "leading_diamond": "<transparent,#01579B>\ue0b0</>",
           "properties": {
             "folder_icon": "\uf6d7",
@@ -27,14 +27,14 @@
           "type": "path"
         },
         {
-          "background": "#00C853",
+          "background": "#2aa198",
           "background_templates": [
             "{{ if or (.Working.Changed) (.Staging.Changed) }}#FFEB3B{{ end }}",
             "{{ if and (gt .Ahead 0) (gt .Behind 0) }}#FFCC80{{ end }}",
             "{{ if gt .Ahead 0 }}#B388FF{{ end }}",
             "{{ if gt .Behind 0 }}#B388FF{{ end }}"
           ],
-          "foreground": "#000000",
+          "foreground": "#002b36",
           "powerline_symbol": "\ue0b0",
           "properties": {
             "fetch_stash_count": true,
@@ -46,7 +46,7 @@
         },
         {
           "background": "#49404f",
-          "foreground": "#ffffff",
+          "foreground": "#cb4b16",
           "leading_diamond": "<transparent,#49404f>\ue0b0</>",
           "properties": {
             "style": "dallas",
@@ -58,8 +58,8 @@
           "type": "executiontime"
         },
         {
-          "background": "#910000",
-          "foreground": "#ffffff",
+          "background": "#dc322f",
+          "foreground": "#eee8d5",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
           "template": "<transparent> \uf071 </> {{ .Meaning }} ",
@@ -73,7 +73,7 @@
       "segments": [
         {
           "background": "#29315A",
-          "foreground": "#43CCEA",
+          "foreground": "#d33682",
           "leading_diamond": "\ue0c5",
           "style": "diamond",
           "template": "  {{ .UserName }}<transparent></>",
@@ -81,7 +81,7 @@
         },
         {
           "background": "#29315A",
-          "foreground": "#3EC669",
+          "foreground": "#268bd2",
           "properties": {
             "time_format": "15:04:05"
           },
@@ -97,7 +97,7 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#ffffff",
+          "foreground": "#eee8d5",
           "foreground_templates": [
             "{{ if gt .Code 0 }}#ff0000{{ end }}"
           ],

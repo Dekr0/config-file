@@ -4,15 +4,10 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 
 Plug 'sonph/onehalf', { 'rtp': 'vim' }
+Plug 'nvim-tree/nvim-web-devicons' " optional, for file icons
+Plug 'nvim-tree/nvim-tree.lua'
 
 call plug#end()
-
-
-syntax enable
-set background=dark
-colorscheme solarized
-
-let g:solarized_termcolors=256
 
 set cursorline
 set relativenumber
